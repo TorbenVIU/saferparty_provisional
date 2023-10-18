@@ -1,0 +1,54 @@
+{
+  "number": "DoNotDelete06",
+  "password": "DIZ06",
+  "submissionon": "2023-10-15T22:00:00Z",
+  "remarks_publish": "",
+  "number_of_requests": "2",
+  "substances": [
+      {
+          "name": "MDM",
+          "urlpart": null,
+          "remarks": null,
+          "amount_in_percentage": 5.0
+      },
+      {
+          "name": "MDMA",
+          "urlpart": "mdma",
+          "remarks": "<div >Wirkungseintritt<br>Geschluckt: Nach ca. 30 – 120 Mininuten. Erst nach 2h Nachlegen um eine Überdosierung zu verhindern.<br>Geschnupft: nach wenigen Minuten (Diese Konsumform wird als sehr unangenehm beschrieben)<br>Rektal eingeführt: nach ca. 30 Minuten</div>",
+          "amount_in_percentage": 7.0
+      },
+      {
+          "name": "Ketamin",
+          "urlpart": "ketamin",
+          "remarks": null,
+          "amount_in_percentage": 22.0
+      }
+  ],
+  "_v2": {
+    "number": "DIZ 12345",
+    "password": "Gottfried",
+    "submissionon": "2023-09-26Z00:00:00",
+    "remarks_publish": "<p>Sonst enthält die Probe keine pharmakologisch wirksamen Substanzen, der Rest sind Streckmittel ohne Wirkung wie z.B. Milchzucker. Die von uns im Drogeninformationszentrum (DIZ) in Zürich analysierten Kokainproben enthielten 2020 durchschnittlich 80% Kokain*HCI. Die Spannweite des Kokaingehaltes reichte von 1.6% und 98.2% 34.9% der von uns analysierten Kokainproben waren mit einer oder mehreren pharmakologisch wirksamen Substanzen gestreckt.</p><p>Beim Teilen von Röhrchen und anderen Hilfsmitteln zum Sniffen besteht die Gefahr einer Infektion mit Hepatitix-C. Verwende deshalb immer deine eigenen Sniffutensilien.</p><p>Klicke <a href='#'>hier</a> für weitere Infos.</p>",
+    "number_of_requests": "2",
+    "substances": [
+      {
+        "name": "2C-B (2C-x)",
+        "urlpart": "2c-b-2c-x",
+        "remarks": null,
+        "amount_in_percentage": "56.12"
+      },
+      {
+        "name": "Milchzucker",
+        "urlpart": null,
+        "remarks": null,
+        "amount_in_percentage": "2.52"
+      },
+      {
+        "name": "Kokain",
+        "urlpart": "kokain",
+        "remarks": "<p>Weitere Informationen auf <a href='https://wikipedia.org/'>Wikipedia</a></p>",
+        "amount_in_percentage": "80.44"
+      }
+    ]
+  }
+}
